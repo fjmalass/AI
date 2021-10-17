@@ -3,6 +3,7 @@ Used to determine the probability of a given attribute (for sentiment/name entit
 
 # Reference
 [Attention Is All You Need, __A. Vaswani et al.__, 2017](https://arxiv.org/pdf/1706.03762.pdf)
+
 [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)
 
 
@@ -40,3 +41,7 @@ Rem: Dot product is much faster than neural network with single hidden layer (as
 
 ## Optimization/Regularization
 1. Add dropout (prob = 0.1) 
+
+# BERT (Multi-layer bidirectional transformer encoder)
+* 12 Transformer layers, (Total of 110M paramters)
+[Bert] (https://github.com/google-research/bert)
