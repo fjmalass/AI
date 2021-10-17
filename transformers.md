@@ -9,6 +9,7 @@ Used to determine the probability of a given attribute (for sentiment/name entit
 # Transformer
 Generate Probability
 ![Transformer Vaswani2017](Figures/Transformer.png)
+<img src="Figures/Transformer.png" width="200">
 ## Encoder
 * Stack of (6) identical layers
 * The input is Embedding + positional encoding
@@ -28,6 +29,7 @@ Generate Probability
 
 ## Attention
 ![Attention Vaswani2017](Figures/Attention.png)
+<img src="Figures/Attention.png" width="200")
 Def: Mapping a query (`Q`) and a key(`K`)-value(`V`) pair to an output
 * Input: `Q`, `K`, `V`, are vectors
 * Output: Dot Product of `Q . K`(sqrt of dimension) with softmax / mask   dot product of `V`
