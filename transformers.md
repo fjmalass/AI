@@ -43,5 +43,5 @@ Rem: Dot product is much faster than neural network with single hidden layer (as
 1. Add dropout (prob = 0.1) 
 
 # BERT (Multi-layer bidirectional transformer encoder)
-* 12 Transformer layers, (Total of 110M paramters)
+* 12 Transformer layers, (Total of 110M parameters)
 [Bert] (https://github.com/google-research/bert)
