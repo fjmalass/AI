@@ -27,7 +27,7 @@ Generate Probability
 1. 2 sub-layers identical to the encoder with the input from the Encoder outputs
 
 ## Attention
-![Attention Vaswani2017](Figure/Attention.png)
+![Attention Vaswani2017](Figures/Attention.png)
 Def: Mapping a query (`Q`) and a key(`K`)-value(`V`) pair to an output
 * Input: `Q`, `K`, `V`, are vectors
 * Output: Dot Product of `Q . K`(sqrt of dimension) with softmax / mask   dot product of `V`
