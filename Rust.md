@@ -20,6 +20,5 @@
 ## Rust Forge
 [forge](https://forge.rust-lang.org/index.html)
 
-
 ## Python
 [Py03](https://saidvandeklundert.net/learn/2021-11-18-calling-rust-from-python-using-pyo3/) Calling rust from python
