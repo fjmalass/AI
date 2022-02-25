@@ -7,6 +7,3 @@
 
 [Kimbal](https://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf)
 
-
-
-
