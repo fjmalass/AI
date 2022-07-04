@@ -7,6 +7,7 @@
 6. `mito` Similar to bamboolib but with some different features. 
 7. `dtale` Loading and visualization 
 8. `sweetviz` Html data visualization
+9. `ailia` sdk
 
 
 # investigate
