@@ -16,7 +16,7 @@
 | 6.     | **Kruskal's Algorithm**                                      | Graph Minimum Spanning Tree      |                                  |        |
 | 8.     | **Dijstra's Algorithm**                                      | Graph Shortest Path              |                                  |        |
 | 9.     | **Bellman Ford's Algorithm**                                 | Graph Shortest Path              |                                  |        |
-| 10.    | **Kadane's Algorithm**                                       | Dynamic Programming              |                                  |        |
+| 10.    | **Kadane's Algorithm** (max of sum of contiguous sub-array)                                      | Dynamic Programming              | `O(n)`                           | `O(1)` |
 | 11.    | **Lee Algorithm**                                            | Graph (Maze based breadth-first) |                                  |        |
 | 12.    | **Flood Fill Algorithm**                                     | Graph                            |                                  |        |
 | 13.    | **Floyd's Cycle detection Algorithm**, aka **Hare-Turtoise** | Linked Lists                     |                                  |        |
