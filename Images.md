@@ -2,7 +2,7 @@
 
 - Gato: 16x16 patches in ViT , normalized to [-1, 1] divided by sqrt(16) (2022-05-14) (Dosovitskiy et al. 2020)
 
-- [Yolo5](https://github.com/ultralytics/yolov5) See [`Rhypt/examples/yolov5`] and Yolo6 
+- [Yolo5](https://github.com/ultralytics/yolov5) See [`Rhypt/examples/yolov5`] and Yolo6
 
 - [aila SDK](https://ailia.jp/en) [Remark Founder David Cochard is Univ of Metz and GaTech Ms]
 
@@ -76,6 +76,10 @@ ii. Anchor Free: RepPoints
 
 No articles yet [2022-07-03]
 
+## Scene Generation - Lightfields
+
+GSM [Paper](https://arxiv.org/pdf/2112.01473.pdf) [Code](https://github.com/princeton-computational-imaging/neural-point-light-fields)
+
 ## Acronyms
 
 | Acronym | Description              | Reference |
@@ -83,6 +87,8 @@ No articles yet [2022-07-03]
 | SAM     | Self Aggregation Module  |           |
 | PAN     | Path Aggregation Network |           |
 | SPP     | Spatial Pyramid Pooling  |           |
+| GSM     |                          |           |
 
+## Generative Art
 
-
+- [Synthetik](https://synthetik.com/msg-generative-art/)
