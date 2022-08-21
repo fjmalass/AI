@@ -8,6 +8,9 @@
 - Medical Imaging: Clara
 - Data Science Analytics: Rapids
 
-## Tensorflow
+## `Tensorflow`
 
 - [Tensorflow Hub for TFLite](https://tfhub.dev/tensorflow/collections/lite/task-library/image-classifier/1)
+- [Mediapipe] conversion `tflite` to `onnx`
+
+## SpaCy

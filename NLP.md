@@ -21,3 +21,7 @@
 3. Implementation
 
 - Redis
+
+## Libraries
+
+-[`SpaCy`](https://spacy.io)

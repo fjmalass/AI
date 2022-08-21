@@ -1,6 +1,12 @@
 # Examples of implementation
 
-- Gato: 16x16 patches in ViT , normalized to [-1, 1] divided by sqrt(16) (2022-05-14) (Dosovitskiy et al. 2020)
+## Augmentation
+
+- [`ImgAug`](https://github.com/aleju/imgaug)
+
+## Models
+
+- `Gato`: 16x16 patches in ViT , normalized to [-1, 1] divided by sqrt(16) (2022-05-14) (Dosovitskiy et al. 2020)
 
 - [Yolo5](https://github.com/ultralytics/yolov5) See [`Rhypt/examples/yolov5`] and Yolo6
 
