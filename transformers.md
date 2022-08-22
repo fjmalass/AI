@@ -58,3 +58,7 @@ Def: Mapping a query (`Q`) and a key(`K`)-value(`V`) pair to an output
 ## Library
 
 - [Transformers](https://huggingface.co/docs/transformers/main/en/index)
+
+## Images
+
+- [`GPT and Images`](https://github.com/xingyizhou/GTR)

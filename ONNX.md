@@ -2,12 +2,15 @@
 
 [`onnxruntime`](http://onnxruntime.ai/docs)
 
-## Supported operators, _aka_ `opset_version`
-e.g., BatchNormalization
+## Pre-trained Models Examples
 
-Typical exporter can determine the `opset` (typical default to 9)
+- [`ONNX-Zoo`](https://github.com/onnx/models)
 
-- [onnx operators schemas](https://github.com/onnx/onnx/blob/main/docs/Operators.md)
+## Supported operators, _aka_ `opset_version` e.g., `BatchNormalization`
+
+Typical exporter can determine the `opset` (typical default to 13) [now 17 2022-08-21]
+
+- [`ONNX` operators schemas](https://github.com/onnx/onnx/blob/main/docs/Operators.md)
 
 ### `PyTorch` -> `onnx`
 
@@ -25,7 +28,7 @@ Typical exporter can determine the `opset` (typical default to 9)
 
 - Install `sk2onnx` `pip install sk2onnx`
 
-## Executing `onnx` file with  `onnxruntime`
+## Executing `ONNX` file with  `onnxruntime`
 
 - Install `onnxruntime`
 
@@ -37,17 +40,11 @@ import onnxruntime as rt
 sess = rt.InferenceSession(<File.onnx>)
 input_name = sess.get_inputs()[0].name
 label_name = sess.get_outputs()[0].name
-pred_onx = sess.run([label_name], {input_name: X.astype(numpy.float32)})[0]
+pred_onnx = sess.run([label_name], {input_name: X.astype(numpy.float32)})[0]
 ```
-
-## Pre-trained Models Examples
-
-* [Onnx-examples](https://github.com/onnx/models)
-
 
 ### Visualization
 
-- [Netron](https://github.com/lutzroeder/Netron) 
-- [Visual DL](https://github.com/PaddlePaddle/VisualDL)
-- [Zetan]
-
+- [`Netron`](https://github.com/lutzroeder/Netron)
+- [`Visual DL`](https://github.com/PaddlePaddle/VisualDL)
+- [`Zetan`]

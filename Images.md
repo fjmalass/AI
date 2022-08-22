@@ -6,7 +6,7 @@
 
 ## Models
 
-- `Gato`: 16x16 patches in `ViT` , normalized to [-1, 1] divided by sqrt(16) (2022-05-14) (Dosovitskiy et al. 2020)
+- `Gato`: 16`x`16 patches in `ViT`, normalized to [-1, 1] divided by sqrt(16) (2022-05-14) (Dosovitskiy et al. 2020)
 
 - [`Yolo5`](https://github.com/ultralytics/yolov5) See [`Rhypt/examples/yolov5`] and `Yolo6`
 
@@ -62,29 +62,31 @@ b. `CPU`: `SqueezeNet`, `MobileNet`, `ShuffleNet`
 
 a. Additional blocks: `SPP`, `ASPP`, `RFB`, `SAM`
 
-b. Path-Aggregration blocks: `FPN`, `PAN`, `NAS-FPN`, Fully-Connected `FPN`, `BiFPN`, `ASFF`, `SFAM`
+b. Path-Aggregation blocks: `FPN`, `PAN`, `NAS-FPN`, Fully-Connected `FPN`,
+`BiFPN`, `ASFF`, `SFAM`
 
 **3: Heads**:
 
 a. Dense Prediction (one-stage):
 
-i. Anchor Based: `RPN`, `SSD`, `YOLO`, `RetinaNet`
+  i. Anchor Based: `RPN`, `SSD`, `YOLO`, `RetinaNet`
 
-ii. Anchor Free Based: `CornerNet`, `CenterNet`, `MatrixNet`, `FCOS`
+  ii. Anchor Free Based: `CornerNet`, `CenterNet`, `MatrixNet`, `FCOS`
 
 b. Sparse Prediction (two-stage):
 
-i. Anchor Based: `R-CNN`, `R-FCN`, `Mask` `R-CNN`
+  i. Anchor Based: `R-CNN`, `R-FCN`, `Mask` `R-CNN`
 
-ii. Anchor Free: `RepPoints`
+  ii. Anchor Free: `RepPoints`
 
-## Yolo5
+## `Yolo5`
 
 No articles yet [2022-07-03]
 
 ## Scene Generation - Lightfields
 
-GSM [Paper](https://arxiv.org/pdf/2112.01473.pdf) [Code](https://github.com/princeton-computational-imaging/neural-point-light-fields)
+GSM [Paper](https://arxiv.org/pdf/2112.01473.pdf)
+[Code](https://github.com/princeton-computational-imaging/neural-point-light-fields)
 
 ## Acronyms
 
@@ -98,3 +100,7 @@ GSM [Paper](https://arxiv.org/pdf/2112.01473.pdf) [Code](https://github.com/prin
 ## Generative Art
 
 - [`Synthetik`](https://synthetik.com/msg-generative-art/)
+
+## Detection
+
+- [20000 Classes](https://arxiv.org/pdf/2201.02605.pdf) [Code](https://github.com/facebookresearch/Detic)
