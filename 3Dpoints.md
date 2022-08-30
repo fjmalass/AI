@@ -10,3 +10,9 @@
 ## 2022-08-19
 
 - [`PyTorch3D`](https://github.com/facebookresearch/pytorch3d)
+
+## 2022-08-30
+
+- [NVidia Kaolin Wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp)
+- [NVidia MoMa](https://nvlabs.github.io/nvdiffrec) 3D from pictures [Code](https://github.com/NVlabs/nvdiffrec)
+- 
