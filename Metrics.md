@@ -23,3 +23,7 @@
 4. AP (Average Precision)
 
 - Change a detection parameters and evaluate Precision vs. Recall curve and evaluate the Area Under The Curve (AUC)
+
+5. mAP (Mean Average Precision)
+
+- Used in YOLO etc, combines Recall/Intersection Over Union, etc. [Ref](https://www.v7labs.com/blog/mean-average-precision)

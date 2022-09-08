@@ -1,14 +1,22 @@
 # Examples of implementation
 
+## Diffusion 
+
+Generation of new images from other images or text
+
+- [Cold-Diffusion](https://arxiv.org/pdf/2208.09392.pdf) [[Code](https://github.com/arpitbansal297/Cold-Diffusion-Models)]
+
 ## Augmentation
 
 - [`ImgAug`](https://github.com/aleju/imgaug)
 
 ## Models
 
-- `Gato`: 16`x`16 patches in `ViT`, normalized to [-1, 1] divided by sqrt(16) (2022-05-14) (Dosovitskiy et al. 2020)
+- `GATO`: 16`x`16 patches in `ViT`, normalized to [-1, 1] divided by sqrt(16) (2022-05-14) (Dosovitskiy et al. 2020)
 
-- [`Yolo5`](https://github.com/ultralytics/yolov5) See [`Rhypt/examples/yolov5`] and `Yolo6`
+- [`YOLO`](https://github.com/ultralytics/yolov5) See [`Rhypt/examples/yolov5`] and `Yolo6`
+
+- [`PP-YOLOE`](https://arixv.org/pdf/2203.16250.pdf)
 
 - [`aila` `SDK`](https://ailia.jp/en) [Remark Founder David Cochard is Univ of Metz and GaTech Ms]
 
@@ -96,6 +104,7 @@ GSM [Paper](https://arxiv.org/pdf/2112.01473.pdf)
 | `PAN`     | Path Aggregation Network |           |
 | `SPP`     | Spatial Pyramid Pooling  |           |
 | `GSM`     |                          |           |
+| `mAP`     | mean Average Precision   |           |
 
 ## Generative Art
 

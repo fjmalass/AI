@@ -1,6 +1,14 @@
 # Transformers
 
+
+## Bibliography
+- [PyImageSearch](https://pyimagesearch.com/2022/09/05/a-deep-dive-into-transformers-with-tensorflow-and-keras-part-1/)
+
 Used to determine the probability of a given attribute (for sentiment/name entity recognition)
+
+## Transformers for game and replacement to Reinforcement Learning
+
+-/Users/francois/Library/Containers/org.amule.aMule/Data/Library/Application Support/aMule/Temp/040.part [Univ Geneva](https://arxiv.org/pdf/2209.00588.pdf) [[Code](https://github.com/eloialonso/iris)]
 
 ## Reference
 
