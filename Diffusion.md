@@ -25,3 +25,42 @@ Two (**2**) Processes:
 ### Understanding
   1. Very deep hierarchical **Variable Auto Encoders** (**VAE**)
   2. Or Discretized **Stochastic Differential Equations** (**SDE**)
+
+
+## Applications
+
+### Computer Vision
+
+#### Image Generation
+
+##### Image Super Resolution and Inpainting
+
+- Super Resolution Diffusion (SRDiff): Based on likelihood of data
+- Super Resolution via Repeated Refinement (SR3): Iterative denoising
+- Latent Diffusion Models (LDM): Used pretrained auto-encoders
+- RePaint: Update sampling 
+
+##### Semantic Segmentation
+
+##### Anomaly Detection
+
+##### Point Cloud Completion and Detection
+
+- PVD
+- Point Diffusion Refinement (PDR): Particles in thermodynamic system to heat bath.
+
+#### Video Generation
+
+- Flexible Diffusion Model (FDM)
+- Residual Video Diffusion (RVD): autoregressive
+- Video Diffusion Model (VDM): Conditional sampling [Best]
+
+### Natural Language Processing
+
+### Waveform Signal Processing 
+
+#### Speech generation:
+
+- WaveGrad: Gaussian white noise as input, iteratively refines the signal with gradient based sampler. Autoregressive
+- [DiffWave](https:://arxiv.org/pdf/2009.09761.pdf): Diffusion probablistic model for conditiona and/or unconditional waveform generation. 
+

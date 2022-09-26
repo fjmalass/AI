@@ -18,7 +18,16 @@
 
 - [`MoCap CMU`](http://mocap.cs.cmu.edu/)
 - [`Coco`](https://cocodataset.org/#home)
-- [OpenImages](https://storage.googleapis.com/openimages/web/factsfigures.html)
+- [`OpenImages`](https://storage.googleapis.com/openimages/web/factsfigures.html)
+
+
+## Poses
+
+From [dbcollection](https://dbcollection.readthedocs.io/en/latest/available_datasets.html):
+
+- `MPII` Munich Human Pose 
+- `LSP`: Leeds Sports Pose
+- `FLIC`: Frames Labeled in Cinema
 
 ### Bio
 
