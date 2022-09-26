@@ -70,3 +70,14 @@ Def: Mapping a query (`Q`) and a key(`K`)-value(`V`) pair to an output
 ## Images
 
 - [`GPT and Images`](https://github.com/xingyizhou/GTR)
+
+
+## Implementations
+
+### TensorFlow
+- [Jalammar](https://jalammar.github.io/illustrated-transformer/)
+
+### PyTorch
+- [Harvard](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+

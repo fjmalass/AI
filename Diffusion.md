@@ -27,6 +27,13 @@ Two (**2**) Processes:
   2. Or Discretized **Stochastic Differential Equations** (**SDE**)
 
 
+## Models
+
+### Autoregressive
+
+-[ARDM](https://openreview.net/pdf?id=Lm8T39vLDTE)
+
+
 ## Applications
 
 ### Computer Vision
