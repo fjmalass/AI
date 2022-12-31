@@ -15,3 +15,4 @@
 
 - [NVidia Kaolin Wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp)
 - [NVidia MoMa](https://nvlabs.github.io/nvdiffrec) 3D from pictures [Code](https://github.com/NVlabs/nvdiffrec)
+- [NGP](https://youtube.com/watch?v=fvXOjV7EHbk)

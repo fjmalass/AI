@@ -8,6 +8,8 @@
 7. `dtale` Loading and visualization 
 8. `sweetviz` Html data visualization
 9. `ailia` sdk
+10. `pysnooper` debugging print
+11. `pyglet` windows gui 
 
 
 # investigate
