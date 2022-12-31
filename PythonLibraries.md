@@ -67,3 +67,5 @@ Happy birthday! :red_heart::wrapped_gift:
 ## PySnooper 
 
 ## CustomTkInter  [github](https://github.com/TomSchimansky/CustomTkinter)
+
+## Encryption 
